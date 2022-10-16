@@ -1,0 +1,34 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../vscode/html"
+		},
+		{
+			"path": "../../../myfirstproject/myfirstproject"
+		},
+		{
+			"path": "../../../htmltags_1/htmltags_1"
+		},
+		{
+			"path": "../../../htmltags_3/htmltags_3"
+		},
+		{
+			"path": "../../../htmltags_3_упражение/htmltags_3_упражение"
+		},
+		{
+			"path": "../../../css_1/css_1"
+		},
+		{
+			"path": "../../../css_3/css_3/css_3"
+		},
+		{
+			"path": "../../../css_5/css_5"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "live_1"
+	}
+}
